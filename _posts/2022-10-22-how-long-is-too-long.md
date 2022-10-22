@@ -1,5 +1,5 @@
 ---
-title: "Ako dlho je príliš dlho?."
+title: "Ako dlho je príliš dlho?"
 last_modified_at: 2022-10-22T16:20:02-05:00
 categories:
   - Blog
@@ -7,7 +7,7 @@ tags:
 
 ---
 
-Ahoj. Volám sa Jakub a toto je môj prvý blog. Nemám skúsenosti s písaním a v škole som zo slovenčiny pravidelne dostával dvojky. Mojou prednosťou bola matematika. Ten predmet, na ktorom sa učíte vypočítať $5(x+3)-x(6-x)<x^2$. Poviem vám tajomstvo. Matematika má aj iné ciele. Omnoho dôležitejšie ako len naučiť vás počítať. Má naučiť myslieť, vedieť sa postaviť k problému, byť kreatívny, rozvíjať fantáziu a schopnosť hľadať riešenia. A tí, ktorí to nepochopili, vymýšľajú lacné vtípky, kde čakajú na deň, kedy to využijú. Zľahčujú si veci a tvária sa, že to nepotrebujú. Máme síce internet, ale naša spoločnosť aj napriek tomu degeneruje, nečíta, nevzdeláva sa, iba tupo konzumuje, čo má neskôr dopad na spoločnosť.
+Ahoj. Volám sa Jakub a toto je môj prvý blog. Nemám skúsenosti s písaním a v škole som zo slovenčiny pravidelne dostával dvojky. Mojou prednosťou bola matematika. Ten predmet, na ktorom sa učíte vypočítať $5(x+3)-x(6-x)<x^2$. Poviem vám tajomstvo. Matematika má aj iné ciele. Omnoho dôležitejšie ako len naučiť vás počítať. Má naučiť myslieť, vedieť sa postaviť k problému, byť kreatívny, rozvíjať fantáziu a schopnosť hľadať riešenia. A tí, ktorí to nepochopili, vymýšľajú lacné vtípky, kde čakajú na deň, kedy to využijú. Zľahčujú si veci a tvária sa, že to nepotrebujú. Máme síce internet, ale naša spoločnosť aj napriek tomu degeneruje, nečíta, nevzdeláva sa, iba tupo konzumuje, čo má neskôr dopad na nás všetkých.
 
 >„Začal som písať básne, pretože na matematiku som nemal dosť fantázie.“ — Neznámy autor.
 
