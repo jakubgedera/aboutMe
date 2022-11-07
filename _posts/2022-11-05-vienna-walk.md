@@ -33,7 +33,7 @@ V ten deň som ešte videl štátnu operu, Radničné námestie, Karlskirche a �
 
 Táto fotka vznikla pred základnou evanjelickou školou. Vystúpite iba 55 kilometrov vzdušnou čiarou od Bratislavy a ocitnete sa v inom svete. Vo svete, kde existuje sieť cyklocestičiek, kde vás neohrozujú autá ani kamióny a rodičia sa ráno neboja vyprevadiť dieťa do školy na bicykli. A ak do školy príde, tak nemajú strach, či ten bicykel náhodou niekto neukradne. Kde človek neprebehuje na červenú, aj keď môže. Vlastne, stačí prekročiť hranicu s Rakúskom a na kvalite ciest vidíte, že ste niekde inde.
 
-Rád by som žil v krajine, kde sa dodržujú pravidlá a to bez toho, aby som sa musel vysťahovať zo Slovenska. Veď my sme druhý najhorší po Bulharsku v odlive mozgov. To je hanba sveta.
+Rád by som žil v krajine, kde sa dodržujú pravidlá a to bez toho, aby som sa musel vysťahovať zo Slovenska. Veď my sme druhí najhorší po Bulharsku v odlive mozgov. To je hanba sveta.
 
 >„Najväčšia slovenská univerzita je Masarykova univerzita v Brne.“
 
