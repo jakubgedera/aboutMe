@@ -28,4 +28,4 @@ cieľov, ktoré si do nového roka, tak ako vždy, nedám.
 - Začal som písať tento blog, pravidelne... Aj raz za mesiac možno považovať za pravidelnosť.
 - Mal som pohovor v Google-i. Síce neúspešne, ale skúsenosti a nové vedomosti sú na nezaplatenie.
 - Vyskúšal som dobrovoľníctvo a plánujem v tom pokračovať, sporadicky.
-- Počet prečítaných kníh: 6. To je nárast oproti poslednémi roku o 600%.
+- Počet prečítaných kníh: 6. To je nárast oproti poslednému roku o 600%.

@@ -3,7 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-I am software engineer at <a href="https://essential-data.sk" data-toggle="tooltip">Essential Data</a>. Currently improving the quality of Slovak Jurisdiction..
+I am software engineer at <a href="https://essential-data.sk" data-toggle="tooltip">Essential Data</a>. 
+Currently improving the quality of Slovak Jurisdiction and working on project Slov-lex.
 
 <h2>Employment History</h2>
 
@@ -18,6 +19,8 @@ I am software engineer at <a href="https://essential-data.sk" data-toggle="toolt
         <td>
             <ul>
               <li>Improving the quality of Slovak Jurisdiction.</li>
+              <li>Working on project Slov-lex.</li>
+              <li>Internal leader.</li>
             </ul>
         </td>
     </tr>
@@ -60,13 +63,14 @@ I am software engineer at <a href="https://essential-data.sk" data-toggle="toolt
 * MSc. in the field of information systems
 
 <h2>Skills</h2>
-* Java 8
-* TypeScript (Angular)
+* Java 17, Spring Boot
+* TypeScript (Angular, React)
 * SQL
 * Certified Scrum Master (CSM), from Scrum Alliance
 
 <h2>Hobbies</h2>
 * Calisthenics
+* Crossfit
 * Running
 * Music
 * Traveling
