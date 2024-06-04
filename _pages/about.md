@@ -4,7 +4,8 @@ title: "About"
 ---
 
 I am software engineer at <a href="https://essential-data.sk" data-toggle="tooltip">Essential Data</a>. 
-Currently improving the quality of Slovak Jurisdiction and working on project Slov-lex.
+Improved the quality of Slovak Jurisdiction on project <a href="https://www.slov-lex.sk/domov" data-toggle="tooltip">Slov-Lex</a>.
+Currently working on project for <a href="https://www.zvjs.sk/sk" data-toggle="tooltip">Prison and Court Guard Service</a>.
 
 <h2>Employment History</h2>
 
@@ -12,15 +13,33 @@ Currently improving the quality of Slovak Jurisdiction and working on project Sl
   <tbody>
     <tr>
       <td>November 2022 - Present</td>
-      <td><b>Full-Stack Developer/Essential Data</b></td>
+      <td><b>Full-Stack Developer (Team Leader)/Essential Data</b></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><i>ZVJS (June 2024 - Present)</i></td>
     </tr>
     <tr>
         <td></td>
         <td>
             <ul>
-              <li>Improving the quality of Slovak Jurisdiction.</li>
-              <li>Working on project Slov-lex.</li>
-              <li>Internal leader.</li>
+              <li>Working on project for Prison and Court Guard Service.</li>
+              <li>Team leader.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td><i>Slov-Lex (November 2022 - May 2024)</i></td>
+    </tr>
+    <tr>
+        <td></td>
+        <td>
+            <ul>
+              <li>Improved the quality of Slovak Jurisdiction on project Slov-Lex</li>
+              <li>Implemented new features, improved performance and redesign of portal</li>
+              <li>Worked in team of 10+ people</li>
+              <li>Internal leader</li>
             </ul>
         </td>
     </tr>
@@ -35,7 +54,7 @@ Currently improving the quality of Slovak Jurisdiction and working on project Sl
               <li>Developed bank application in Java and Angular</li>
               <li>Improved loan application process by designing and implementing requirements of client</li>
               <li>Worked in agile team consisting of 8 - 10 people</li>
-              <li>Worked also with customer to solve user issues in production in an efficient, timely manner</li>
+              <li>Worked with customer to solve user issues in production in an efficient, timely manner</li>
               <li>Led and supervised junior colleague</li>
             </ul>
         </td>
@@ -63,15 +82,14 @@ Currently improving the quality of Slovak Jurisdiction and working on project Sl
 * MSc. in the field of information systems
 
 <h2>Skills</h2>
-* Java 17, Spring Boot
+* Java 17, <a href="https://www.credly.com/badges/de512caa-a5b2-4313-8295-4af460a2b14f/public_url" data-toggle="tooltip">Spring Boot</a>
 * TypeScript (Angular, React)
-* SQL
-* Certified Scrum Master (CSM), from Scrum Alliance
+* SQL, Camunda BPM, Keycloak
+* Certified <a href="https://bcert.me/sfanzgtds" data-toggle="tooltip">Scrum Master (CSM)</a>, from Scrum Alliance
 
 <h2>Hobbies</h2>
-* Calisthenics
 * Crossfit
+* Calisthenics
 * Running
 * Music
 * Traveling
-
